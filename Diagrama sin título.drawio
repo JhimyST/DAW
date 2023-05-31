@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T13:52:41.187Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="0Qc6fBf4IOh7K4BYObJc" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-31T14:03:23.631Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="9INYYWHJzZ1a2mECkcjr" version="21.3.5" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2537" dy="2047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -391,7 +391,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hXBhKuB5t8SuU0jZ5e3O-55" value="categoria_nombre char(100) NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="hXBhKuB5t8SuU0jZ5e3O-53" vertex="1">
+        <mxCell id="hXBhKuB5t8SuU0jZ5e3O-55" value="categoria_nombre varchar(100) NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="hXBhKuB5t8SuU0jZ5e3O-53" vertex="1">
           <mxGeometry x="30" width="240" height="30" as="geometry">
             <mxRectangle width="240" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -880,7 +880,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hXBhKuB5t8SuU0jZ5e3O-331" value="departamento_nombre char(100) NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="hXBhKuB5t8SuU0jZ5e3O-329" vertex="1">
+        <mxCell id="hXBhKuB5t8SuU0jZ5e3O-331" value="departamento_nombre varchar(100) NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="hXBhKuB5t8SuU0jZ5e3O-329" vertex="1">
           <mxGeometry x="30" width="255" height="30" as="geometry">
             <mxRectangle width="255" height="30" as="alternateBounds" />
           </mxGeometry>
